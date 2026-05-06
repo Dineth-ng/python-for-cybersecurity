@@ -32,6 +32,8 @@ If you are also learning Python for cybersecurity, feel free to:
 | 3 | Networking & Automation | Weeks 7–10 | ⏳ Not started |
 | 4 | Portfolio Project | Weeks 11–14 | ⏳ Not started |
 
+<img width="512" height="682" alt="image" src="https://github.com/user-attachments/assets/c3e9cdfe-d297-46a6-8715-d5776c8bdef3" />
+
 ---
 
 ## Phase 1 — Python Foundations (Weeks 1–3)
